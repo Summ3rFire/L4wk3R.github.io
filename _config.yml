@@ -224,7 +224,7 @@ font:
 social_icons:
   enable: true
   # Icon Mappings.
-  # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
+   KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: https://L4wk3R.github.io/
   #Twitter: twitter
   #Weibo: weibo
@@ -232,7 +232,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar:/assets/images/avatar_hat.png
+avatar: /assets/images/avatar_hat.png
 
 
 # Table Of Contents in the Sidebar
