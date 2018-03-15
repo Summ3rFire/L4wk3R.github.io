@@ -378,9 +378,10 @@ han: false
 #duoshuo_shortname:
 
 # Disqus
-disqus:
+disqus_shortname: disqus_0QxT4FyaNN
+disqus: l4wk3r.disqus.com
   enable: true
-  shortname:
+  shortname: disqus_0QxT4FyaNN
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
