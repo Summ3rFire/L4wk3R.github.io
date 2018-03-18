@@ -224,7 +224,7 @@ font:
 social_icons:
   enable: true
   # Icon Mappings.
-   KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
+  KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: https://Summ3rFire.github.io/
   #Twitter: twitter
   #Weibo: weibo
