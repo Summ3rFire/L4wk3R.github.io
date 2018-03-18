@@ -378,7 +378,7 @@ han: false
 #duoshuo_shortname:
 
 # Disqus
-disqus_shortname: summ3rfire-github-io
+#disqus_shortname: summ3rfire-github-io
 disqus: summ3rfire-github-io.disqus.com
   enable: true
   shortname: summ3rfire-github-io
